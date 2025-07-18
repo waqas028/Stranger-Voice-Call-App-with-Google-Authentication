@@ -40,3 +40,13 @@ The screen where users can input the **Room ID** to join the meeting created by 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/jitsi-joiner-app.git
+
+## 🌍 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-waqaswaseem679@gmail.com-red?style=flat&logo=gmail)](mailto:waqaswaseem679@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-waqas-4399361a3)  
+[![GitHub](https://img.shields.io/badge/GitHub-waqas028-black?style=flat&logo=github)](https://github.com/waqas028)  
+[![Skype](https://img.shields.io/badge/Skype-live%3Awaqasyaqeen420-00aff0?style=flat&logo=skype)](https://join.skype.com/invite/p4ckdyAOrsCs)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/+923045593294)  
+[![Google Developer](https://img.shields.io/badge/Google%20Developer-Profile-blue?style=flat&logo=google)](https://g.dev/MuhammadWaqasDev)
+
